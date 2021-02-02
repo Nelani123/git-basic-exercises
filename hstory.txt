@@ -1,0 +1,1000 @@
+ 1023  clear
+ 1024  jasmine Password_Checker_spec.js 
+ 1025  clear
+ 1026  jasmine Password_Checker_spec.js 
+ 1027  clear
+ 1028  jasmine Password_Checker_spec.js 
+ 1029  clear
+ 1030  jasmine Password_Checker_spec.js 
+ 1031  clear
+ 1032  jasmine Password_Checker_spec.js 
+ 1033  clear
+ 1034  jasmine Password_Checker_spec.js 
+ 1035  cd ..
+ 1036  git init
+ 1037  git add .
+ 1038  git commit -m "Fixed my nyc wich was to add more specs"
+ 1039  git push origin master
+ 1040  git push
+ 1041  git init
+ 1042  git add .
+ 1043  git commit -m "I just added more specs"
+ 1044  git push origin master
+ 1045  cd src/
+ 1046  npm init
+ 1047  git clone https://github.com/Umuzi-org/Anda-Pika-280-node-file-io.git
+ 1048  ls
+ 1049  cd Anda-Pika-280-node-file-io/
+ 1050  ls
+ 1051  git clone https://github.com/Umuzi-org/Anda-Pika-280-node-file-io.git
+ 1052  ls
+ 1053  clear
+ 1054  clear
+ 1055  git clone https://github.com/Umuzi-org/Anda-Pika-280-node-file-io.git
+ 1056  clear
+ 1057  git clone https://github.com/Umuzi-org/Anda-Pika-222-memory-game-in-vanilla-js.git
+ 1058  ls
+ 1059  cd Anda-Pika-222-memory-game-in-vanilla-js/
+ 1060  ls
+ 1061  git clone https://github.com/Anda2000/CONSUME-GITHUB-API.git
+ 1062  git clone https://github.com/Umuzi-org/Anda-Pika-186-consume-github-api.git
+ 1063  git clone https://github.com/Umuzi-org/Anda-Pika-222-memory-game-in-vanilla-js.git
+ 1064  git clone https://github.com/Umuzi-org/Anda-Pika-222-memory-game-in-vanilla-js.git
+ 1065  ls
+ 1066  cd Anda-Pika-222-memory-game-in-vanilla-js/
+ 1067  ls
+ 1068  git clone https://github.com/Umuzi-org/Anda-Pika-222-memory-game-in-vanilla-js.git
+ 1069  cd Anda-Pika-222-memory-game-in-vanilla-js/
+ 1070  ls
+ 1071  man curl
+ 1072  curl
+ 1073  curl --manual
+ 1074  cd src/
+ 1075  node api.js 
+ 1076  npm install node-fetch
+ 1077  sudo npm install node-fetch
+ 1078  ls
+ 1079  cd Anda-Pika-186-consume-github-api/
+ 1080  clear
+ 1081  npm install node-fetch
+ 1082  sudo npm install node-fetch
+ 1083  sudo apt install node fetch
+ 1084  cd ..
+ 1085  sudo apt install node fetch
+ 1086  echo "# survey-form" >> README.md
+ 1087  git init
+ 1088  git add README.md
+ 1089  git commit -m "first commit"
+ 1090  git branch -M master
+ 1091  git remote add origin https://github.com/Nelani123/survey-form.git
+ 1092  git push -u origin master
+ 1093  git status
+ 1094  git add .
+ 1095  git commit -m "Completed the Survey Form Project"
+ 1096  git status
+ 1097  clear
+ 1098  git init
+ 1099  git add .
+ 1100  git commit -m "Completed survey form"
+ 1101  git status
+ 1102  clear
+ 1103  git init
+ 1104  git add .
+ 1105  git status
+ 1106  clear
+ 1107  ls
+ 1108  clear
+ 1109  sudo apt-add-repository ppa:ehoover/compholio
+ 1110  sudo apt-get install msttcorefonts
+ 1111  ls
+ 1112  cd Desktop
+ 1113  ls
+ 1114  cd Product Landing Page
+ 1115  bash: cd: too many arguments
+ 1116  cd Product/Landing/Page
+ 1117  git init
+ 1118  git add .
+ 1119  git commit -m "14 out 16 tests run ad theproject needs to be completed"
+ 1120  git status
+ 1121  git branch -M master
+ 1122  rm -rf .git/
+ 1123  git init
+ 1124  git remote add origin https://github.com/Nelani123/Product-landing-Page.git
+ 1125  git commit -m "14 out 16 tests run ad theproject needs to be completed"
+ 1126  git push -u origin master
+ 1127  clear
+ 1128  git status
+ 1129  git add .
+ 1130  git status
+ 1131  git remote add origin https://github.com/Nelani123/Product-landing-Page.git
+ 1132  git git remote rm origin
+ 1133  git remote rm
+ 1134  git remote -v
+ 1135  git push -u origin master
+ 1136  git status
+ 1137  clear
+ 1138  git config--global http://proxy.server.com:8080/
+ 1139  ls
+ 1140  cd  code.desktop             'Product Landing Page'
+ 1141  cd 'Product Landing Page'
+ 1142  git init
+ 1143  git add .
+ 1144  git commit -m "first commit"
+ 1145  git status
+ 1146  git check-ignore -v -- afile
+ 1147  git status
+ 1148  git branch --set-upstream-to origin/master
+ 1149  git branch -u origin/master
+ 1150  git config
+ 1151  git status
+ 1152  clear
+ 1153  git branch -M master
+ 1154  git remote add origin https://github.com/Nelani123/product-landing-page.git
+ 1155  git remote set-url origin https://github.com/Nelani123/product-landing-page.git
+ 1156  git remote add origin https://github.com/Nelani123/product-landing-page.git
+ 1157  git remote rm origin
+ 1158  git remote add origin https://github.com/Nelani123/product-landing-page.git
+ 1159  git push -u origin master
+ 1160  git init
+ 1161  git remote add origin https://github.com/Nelani123/technical-page.git
+ 1162  git commit -m "first commit"
+ 1163  git push -f origin master
+ 1164  git push -u origin main
+ 1165  git push origin master --force
+ 1166  git push origin master --f
+ 1167  all
+ 1168  clear
+ 1169  git status
+ 1170  git add .
+ 1171  git status
+ 1172  git remote add origin https://github.com/Nelani123/technical-page.git
+ 1173  git remote rm origin
+ 1174  git remote add origin https://github.com/Nelani123/technical-page.git
+ 1175  git status
+ 1176  git push -u origin main
+ 1177  git push origin
+ 1178  clear
+ 1179  git remote rm origin
+ 1180  git status
+ 1181  clear
+ 1182  ls
+ 1183  cd Technical\ Document/
+ 1184  echo "# Technical-Document" >> README.md
+ 1185  git init
+ 1186  git add .
+ 1187  git commit -m "first commit"
+ 1188  git branch -M main
+ 1189  git remote add origin https://github.com/Nelani123/Technical-Document.git
+ 1190  git push -u origin main
+ 1191  echo "# Survey-Form" >> README.md
+ 1192  git init
+ 1193  git add README.md
+ 1194  git commit -m "Completed all the tests"
+ 1195  git branch -M main
+ 1196  git remote add origin https://github.com/Nelani123/Survey-Form.git
+ 1197  git remote rm origin
+ 1198  git remote add origin https://github.com/Nelani123/Survey-Form.git
+ 1199  git push -u origin main
+ 1200  sudo apt installphpmyadmin
+ 1201  clear
+ 1202  ls
+ 1203  ./blender
+ 1204  cd Desktop/
+ 1205  ls
+ 1206  cd Adobe\ Illustrator/
+ 1207  ls
+ 1208  clear
+ 1209  ls
+ 1210  nano Howtorun.nfo
+ 1211  ls
+ 1212  cd Adobe\ Illustrator/
+ 1213  ls
+ 1214  nano Howtorun.nfo
+ 1215  wine IllustratorCS6Portable.exe
+ 1216  sudo apt install wine-development
+ 1217  wine IllustratorCS6Portable.exe
+ 1218  apt-get install wine32-development
+ 1219  yes
+ 1220  wine IllustratorCS6Portable.exe
+ 1221  apt-get install wine32-development
+ 1222  echo $SHELL
+ 1223  echo Hello
+ 1224  echo Sasha-Leigh
+ 1225  sudo apt install netflix
+ 1226  sudo apt-add-repository ppa:ehoover/compholio
+ 1227  clear
+ 1228  sudo apt-add-repository ppa:ehoover
+ 1229  clear
+ 1230  sudo apt-get install netflix-desktop
+ 1231  ls
+ 1232  cd Downloads/
+ 1233  ls
+ 1234  chmod 600  qwikLABS-L627-20747246.pem
+ 1235  chmod 600 chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1236  chmod 600 ~/Downloads/qwikLABS-L627-20747246.pem
+ 1237  ssh -i ~/Downloads/qwikLABS-L627-20747246.pem student-00-479f31b82b03@35.238.84.142
+ 1238  clear
+ 1239  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1240  clear
+ 1241  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1242  sudo apt update
+ 1243  sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
+ 1244  sudo killall remmina
+ 1245  apt-cache search remmina-plugin.
+ 1246  ppa:remmina-ppa-team/remmina-next-daily
+ 1247  history
+ 1248  clear
+ 1249  chmod 600 ~/Downloads/qwikLABS-L640-21281680.pem 
+ 1250  ssh -i ~/Downloads/qwikLABS-L640-21281680.pem student-01-bc8f2f20675b@35.225.216.241
+ 1251  chmod 600 ~/Downloads/qwikLABS-L632-21344337.pem 
+ 1252  ssh -i ~/Downloads/qwikLABS-L632-21344337.pem student-03-6ed08fefe6ed@35.223.87.112
+ 1253  chmod 600 ~/Downloads/qwikLABS-L634-21416872.pem 
+ 1254  ssh -i ~/Downloads/qwikLABS-L634-21416872.pem student-00-4cd8b8b782e3@34.121.17.104
+ 1255  chmod 600 ~/Downloads/qwikLABS-L640-21281680.pem 
+ 1256  ssh -i ~/Downloads/qwikLABS-L634-21416872.pem student-00-4cd8b8b782e3@34.121.17.104
+ 1257  chmod 600 ~/Downloads/qwikLABS-L642-21483901.pem 
+ 1258  ssh -i ~/Downloads/qwikLABS-L642-21483901.pem student-03-8f95c3757e7b@104.197.22.126
+ 1259  chmod 600 ~/Downloads/qwikLABS-L636-21503614.pem 
+ 1260  ssh -i ~/Downloads/qwikLABS-L636-21503614.pem 
+ 1261  clear
+ 1262  ssh -i ~/Downloads/qwikLABS-L636-21503614.pem 
+ 1263  clear
+ 1264  chmod 600 ~/Downloads/qwikLABS-L636-21503614.pem 
+ 1265  ssh -i ~/Downloads/qwikLABS-L636-21503614.pem student-04-46b1cc5b7ee8@35.238.239.98
+ 1266  chmod 600 ~/Downloads/qwikLABS
+ 1267  clear
+ 1268  chmod 600 ~/Downloads/qwikLABS-L638-21595541.pem 
+ 1269  ssh -i ~/Downloads/qwikLABS-L638-21595541.pem student-01-09b05237b8b7@34.71.219.213
+ 1270  chmod 600 ~/Downloads/qwikLABS
+ 1271  chmod 600 ~/Downloads/qwikLABSxlear
+ 1272  clear
+ 1273  chmod 600 ~/Downloads/qwikLABS-L638-21614234.pem 
+ 1274  ssh -i ~/Downloads/qwikLABS-L638-21614234.pem student-02-dc74fda7e0d1@34.122.56.227
+ 1275  chmod 600 ~/Downloads/qwikLABS-L1314-21643066.pem 
+ 1276  ssh -i ~/Downloads/qwikLABS-L1314-21643066.pem student-00-0ea70720fa9f@35.222.59.173
+ 1277  chmod 600 ~/Downloads/qwikLABS-L1315-21677483.pem 
+ 1278  ssh -i ~/Downloads/qwikLABS-L1315-21677483.pem student-00-ca4883eb91fb@34.123.44.117
+ 1279  chmod 600 ~/Downloads/qwikLABS-L1314-21643066.pem 
+ 1280  clear
+ 1281  chmod 600 ~/Downloads/qwikLABS-L1315-21677483.pem 
+ 1282  ssh -i ~/Downloads/qwikLABS-XXXXX.pem username@External Ip Address
+ 1283  ssh -i ~/Downloads/qwikLABS-L1315-21677483.pem student-00-ca4883eb91fb@34.123.44.117
+ 1284  chmod 600 ~/Downloads/qwikLABS-L1315-21677816.pem 
+ 1285  ssh -i ~/Downloads/qwikLABS-L1315-21677816.pem student-04-5bea9ea3de8b@35.223.7.209
+ 1286  ssh -i ~/Downloads/qwikLABS-L629-21943536.pem student-00-07f19356747a@35.223.11.223
+ 1287  clear
+ 1288  chmod 600 ~/Downloads/qwikLABS-L629-21943536.pem 
+ 1289  ssh -i ~/Downloads/qwikLABS-L629-21943536.pem student-00-07f19356747a@35.223.11.223
+ 1290  chmod 600 ~/Downloads/qwikLABS-L630-21943847.pem 
+ 1291  ssh -i ~/Downloads/qwikLABS-L630-21943847.pem student-01-e97944e475e1@34.121.250.247
+ 1292  chmod 600 ~/Downloads/qwikLABS-L631-21975168.pem 
+ 1293  ssh -i ~/Downloads/qwikLABS-L631-21975168.pem student-02-30ce47317f6e@35.184.227.103
+ 1294  /usr/bin/python3 /home/recruit/.vscode/extensions/ms-python.python-2020.5.86806/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+ 1295  clear
+ 1296  ls
+ 1297  python
+ 1298  cd Desktop/
+ 1299  ls
+ 1300  cd TildePrjectTutorial/
+ 1301  ls
+ 1302  git clone https://github.com/Umuzi-org/Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-
+ 1303  sudo snap install anbox --beta
+ 1304  sudo apt update
+ 1305  sudo apt install snapd
+ 1306  sudo snap install anbox --beta
+ 1307  git clone https://github.com/Umuzi-org/Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1308  ls
+ 1309  cd Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-/
+ 1310  git checkout -b RepoProject 
+ 1311  touch README.md
+ 1312  nano README.md 
+ 1313  git commit -m "Followed all the instructions"
+ 1314  git add .
+ 1315  git push
+ 1316  ls
+ 1317  git checkout RepoProject 
+ 1318  ls
+ 1319  nano README.md
+ 1320  touch text.md
+ 1321  nano text.md
+ 1322  git commit -m "initial commit"
+ 1323  git add .
+ 1324  git push
+ 1325  git checkout main
+ 1326  git merge RepoProject
+ 1327  git clone https://github.com/Umuzi-org/Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1328  git checkout -b TildeRepo
+ 1329  git status
+ 1330  mkdir git-basic-exercises
+ 1331  cd git-basic-exercises/
+ 1332  ls -a
+ 1333  git init
+ 1334  ls -a
+ 1335  git status
+ 1336  touch README.md
+ 1337  ls -a
+ 1338  git status
+ 1339  git log.
+ 1340  git log
+ 1341  git add README.md
+ 1342  git status
+ 1343  git commit -m "initial commit"
+ 1344  git log
+ 1345  nano README.md
+ 1346  cat README.md
+ 1347  git commit -m "second commit"
+ 1348  git log
+ 1349  git status
+ 1350  ls -a
+ 1351  gid add README.md
+ 1352  git add README.md
+ 1353  git status
+ 1354  git commit -m "second commit"
+ 1355  git log
+ 1356  q
+ 1357  git checkout  c73663312f80f1ffdde643cd0ebcc8619a48617f
+ 1358  cat README.md
+ 1359  git checkout main
+ 1360  cat README.md
+ 1361  git checkout
+ 1362  git branch
+ 1363  git checkout -b milkshake-flavoures
+ 1364  git branch
+ 1365  git checkout
+ 1366  git branch
+ 1367  nano milshakes.md
+ 1368  git status
+ 1369  git add milkshakes.md
+ 1370  git commit -m "added initial flavours "
+ 1371  git log
+ 1372  git status
+ 1373  git add milkshakes.md
+ 1374  git add milkshake.md
+ 1375  echo "# git-basic-exercises" >> README.md
+ 1376  git init
+ 1377  git add README.md
+ 1378  git commit -m "first commit"
+ 1379  git branch -M main
+ 1380  git remote add origin https://github.com/Nelani123/git-basic-exercises.git
+ 1381  git push -u origin main
+ 1382  cd..
+ 1383  cd ..
+ 1384  clear
+ 1385  mkdir Git-Basic-Exercises
+ 1386  cd Git-Basic-Exercises/
+ 1387  ls -a
+ 1388  git init
+ 1389  ls -a
+ 1390  git status
+ 1391  touch README.md
+ 1392  ls -a
+ 1393  git status
+ 1394  git log
+ 1395  git add README.md 
+ 1396  git status
+ 1397  git reset
+ 1398  git status
+ 1399  git add README.md 
+ 1400  git status
+ 1401  git commit -m "initial commit"
+ 1402  git log
+ 1403  q
+ 1404  nano README.md
+ 1405  cat README.md
+ 1406  git stats
+ 1407  git status
+ 1408  git add README.md 
+ 1409  git status
+ 1410  git commit -m "second commit"
+ 1411  git log
+ 1412  nano README.md 
+ 1413  cat README.md 
+ 1414  git status
+ 1415  git add README.md 
+ 1416  git status
+ 1417  git commit -m "third commit"
+ 1418  git log
+ 1419  git checkout
+ 1420  git checkout cd0fe11800b2c1a3f46bd60d39236e813ee7d1fa
+ 1421  cat README.md 
+ 1422  git checkout main
+ 1423  cat README.md 
+ 1424  git branch
+ 1425  git checkout milkshake-flavours
+ 1426  git -b checkout milkshake-flavours
+ 1427  git checkout -b  milkshake-flavours
+ 1428  git branch
+ 1429  git checkout
+ 1430  git branch
+ 1431  nano milkshakes.md
+ 1432  git status
+ 1433  git add milkshakes.md 
+ 1434  git status
+ 1435  git commit -m "added initial flavours"
+ 1436  git log
+ 1437  git checkout main
+ 1438  git checkout -b history
+ 1439  git checkout
+ 1440  git log
+ 1441  git branch
+ 1442  history > history.txt
+ 1443  git status
+ 1444  git add history.txt 
+ 1445  git status
+ 1446  git commit -m "added history"
+ 1447  git log
+ 1448  git checkout
+ 1449  git log
+ 1450  git status
+ 1451  ls -a
+ 1452  nano README.md 
+ 1453  git status
+ 1454  git add README.md 
+ 1455  git status
+ 1456  git commit -m "random readme changes"
+ 1457  git checkout history
+ 1458  git checkout
+ 1459  cat README.md 
+ 1460  rm README.md 
+ 1461  echo "booya" > README.md
+ 1462  git status
+ 1463  git add README.md 
+ 1464  git status
+ 1465  git commit -m  "rewrote readme"
+ 1466  git checkout main
+ 1467  git checkout
+ 1468  git checkout main
+ 1469  ls
+ 1470  git log
+ 1471  git checkout milkshake-flours
+ 1472  ls
+ 1473  git log
+ 1474  git checkout main
+ 1475  git merge milkshake-flavours
+ 1476  ls
+ 1477  git log
+ 1478  git checkout history
+ 1479  git log
+ 1480  git checkout milkshake-flavours
+ 1481  git log
+ 1482  git checkout Y
+ 1483  git merge X
+ 1484  echo "# git-basic-exercises" >> README.md
+ 1485  git init
+ 1486  echo "# git-basic-exercises" >> README.md
+ 1487  git commit -m "first commit"
+ 1488  git add README.md 
+ 1489  git status
+ 1490  git commit -m "Github Readme"
+ 1491  git branch -M main
+ 1492  git remote add origin https://github.com/Nelani123/git-basic-exercises.gitgit push -u origin main
+ 1493  git push -u origin main
+ 1494  git branch -M main
+ 1495  git remote add origin https://github.com/Nelani123/git-basic-exercises.gitgit push -u origin main
+ 1496  git push -u origin main
+ 1497  echo "# git-basic-exercises" >> README.md
+ 1498  git init
+ 1499  git commit -m "first commit"
+ 1500  git branch -M main
+ 1501  git remote add origin https://github.com/Nelani123/git-basic-exercises.git
+ 1502  git push -u origin main
+ 1503  cd ..
+ 1504  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1505  cd a-repo-to-clone/
+ 1506  git branch
+ 1507  git log
+ 1508  git branth -a
+ 1509  git branch -a
+ 1510  git checkout project/git-basic-exercises
+ 1511  git remote -v
+ 1512  git checkout -b  project/git-basic-exercises
+ 1513  git remote -v
+ 1514  git log
+ 1515  cd ..
+ 1516  cd Git-Basic-Exercises/
+ 1517  git log
+ 1518  cd ..
+ 1519  mkdir this-will-be-another-repo
+ 1520  cd this-will-be-another-repo/
+ 1521  git init
+ 1522  touch README.md
+ 1523  git add README.md 
+ 1524  git status
+ 1525  git commit -m "new repo"
+ 1526  cd ..
+ 1527  cd Git-Basic-Exercises/
+ 1528  git log
+ 1529  touch ignore-me.db
+ 1530  git status
+ 1531  nano .gitignore
+ 1532  git status
+ 1533  mkdir large-directory-that-should-be-local-only
+ 1534  cd large-directory-that-should-be-local-only/
+ 1535  touch README.md
+ 1536  nano README.md 
+ 1537  cd ..
+ 1538  git status
+ 1539  nano .gitignore 
+ 1540  git status
+ 1541  git add .gitignore 
+ 1542  git commit -m "added .gitignore"
+ 1543  git push
+ 1544  git clone https://github.com/Umuzi-org/Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1545  ls
+ 1546  cd Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-/
+ 1547  la -a
+ 1548  mkdir README.md
+ 1549  ls -a
+ 1550  git log
+ 1551  git status
+ 1552  mkdir Khanya.md
+ 1553  ls -a
+ 1554  nano Khanya.md/
+ 1555  ls -a
+ 1556  git rm q
+ 1557  nano Khanya.md/
+ 1558  git log
+ 1559  ls -a
+ 1560  git git rm -d q
+ 1561  rm -d q
+ 1562  ls -a
+ 1563  nano Khanya.md/
+ 1564  git log
+ 1565  puthon --version
+ 1566  python --version
+ 1567  exit
+ 1568  python3 --version
+ 1569  exit
+ 1570  python 3
+ 1571  "hello " * 10
+ 1572  chmod 600 ~/Downloads/qwikLABS-L2386-23965526.pem 
+ 1573  ssh -i ~/Downloads/qwikLABS-XXXXX.pem student-01-033c2ff4b60c@34.122.152.114
+ 1574  cd scripts
+ 1575  ssh -i ~/Downloads/qwikLABS-L2386-23965526.pem student-01-033c2ff4b60c@34.122.152.114
+ 1576  chmod 600 ~/Downloads/qwikLABS-L2386-24019039.pem 
+ 1577  ssh -i ~/Downloads/qwikLABS-L2386-24019039.pem student-01-21db54a930e9@35.223.244.129
+ 1578  ./health_checks.py
+ 1579  chmod 600 ~/Downloads/qwikLABS-L2386-23965526.pem 
+ 1580  clear
+ 1581  chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1582  chmod 600 ~/Downloads/qwikLABS-L2386-24019039.pem 
+ 1583  ssh -i ~/Downloads/qwikLABS-L2386-24019039.pem student-01-21db54a930e9@35.223.244.129
+ 1584  file = open("file.txt")
+ 1585  cd Downloads/
+ 1586  file = open("file.txt")
+ 1587  clear
+ 1588  cat csv_file.txt
+ 1589  clear
+ 1590  chmod 600 ~/Downloads/qwikLABS-L2383-24047080.pem 
+ 1591  ssh -i ~/Downloads/qwikLABS-L2383-24047080.pem student-00-aa15896b6cd0@104.154.88.250
+ 1592  git clone  https://github.com/Nelani123/git-basic-exercises.git
+ 1593  ls
+ 1594  cd Git-Basic-Exercises/
+ 1595  git branch
+ 1596  git log
+ 1597  git checkout
+ 1598  git checkout main
+ 1599  git checkout -b history
+ 1600  git checkout history
+ 1601  git status
+ 1602  git add . README.md 
+ 1603  git commit -m "README"
+ 1604  git checkout history
+ 1605  git log
+ 1606  git branch
+ 1607  history > hidtory.txt
+ 1608  history > history.txt
+ 1609  git add . history.txt
+ 1610  git commit -m "added history"
+ 1611  git log
+ 1612  echo "# gitBasicExercises" >> README.md
+ 1613  git init
+ 1614  git commit -m "Done changes"
+ 1615  git add. README.md
+ 1616  git add . README.md
+ 1617  git status
+ 1618  git commit -m "Done changes"
+ 1619  git branch -M main
+ 1620  git remote add origin https://github.com/Nelani123/git-basic-exercises.git
+ 1621  git push -u origin main
+ 1622  mkdir Gir-basic-exercises
+ 1623  cd Gir-basic-exercises/
+ 1624  ls -a
+ 1625  git init
+ 1626  ls -a
+ 1627  git status
+ 1628  git log
+ 1629  git add . README.md
+ 1630  git log
+ 1631  touch README.md
+ 1632  ls -a
+ 1633  git status
+ 1634  git log
+ 1635  git add . README.md 
+ 1636  git rm README.md 
+ 1637  git reset
+ 1638  git status
+ 1639  git reset README.md
+ 1640  git status
+ 1641  git commit -m "initial commit"
+ 1642  git add . README.md 
+ 1643  git commit -m "initial commit"
+ 1644  git log
+ 1645  nano README.md 
+ 1646  cat README.md 
+ 1647  git status
+ 1648  git add . README.md 
+ 1649  git commit -m "second commit"
+ 1650  nano README.md 
+ 1651  git status
+ 1652  git add . README.md 
+ 1653  git commit -m "third commit"
+ 1654  git log
+ 1655  git checkout  b1cd776536935bf3fce319f21551fd18c0752601
+ 1656  cat README.md 
+ 1657  git checkout main
+ 1658  cat README.md 
+ 1659  git checkout
+ 1660  cat README.md 
+ 1661  git branch
+ 1662  git checkout -b milkshake-flavours
+ 1663  git branch
+ 1664  git checkout milkshake-flavours 
+ 1665  git branch
+ 1666  git branch milkshake-flavours 
+ 1667  nano milkshakes.md
+ 1668  it status
+ 1669  git status
+ 1670  git add . milkshakes.md 
+ 1671  git commit -m "added initial flavours"
+ 1672  git lg
+ 1673  git log
+ 1674  git checkout main
+ 1675  git branch
+ 1676  git checkout master
+ 1677  git branch
+ 1678  git checkout -b history
+ 1679  git checkout history
+ 1680  git log
+ 1681  git branch
+ 1682  history > history.txt
+ 1683  git status
+ 1684  git add . history.txt 
+ 1685  git commit -m "added history"
+ 1686  git log
+ 1687  git checkout milkshake-flavours 
+ 1688  git log
+ 1689  nano README.md 
+ 1690  git status
+ 1691  git add . README.md 
+ 1692  git commit -m "random readme changes"
+ 1693  git checkout history
+ 1694  cat README.md 
+ 1695  rm README.md 
+ 1696  echo "booya" > README.md
+ 1697  git status
+ 1698  git add . README.md 
+ 1699  git commit -m "rewrote readme"
+ 1700  git checkout master
+ 1701  ls
+ 1702  git log
+ 1703  git checkout milkshake-flavours 
+ 1704  ls
+ 1705  git log
+ 1706  git checkout history
+ 1707  ls
+ 1708  git log
+ 1709  git checkout master
+ 1710  git merge milkshake-flavours 
+ 1711  nano README.md 
+ 1712  git status
+ 1713  git add . README.md 
+ 1714  git status
+ 1715  git commit
+ 1716  git checkout master
+ 1717  git merge milkshake-flavours 
+ 1718  ls
+ 1719  git log
+ 1720  git merge history 
+ 1721  git status
+ 1722  nano README.md 
+ 1723  git status
+ 1724  git add . README.md 
+ 1725  git status
+ 1726  git commit
+ 1727  git merge history 
+ 1728  ls
+ 1729  git log
+ 1730  git checkout history
+ 1731  git log
+ 1732  git checkout Y
+ 1733  git merge master
+ 1734  git checkout master
+ 1735  git log
+ 1736  echo "# git-basic-exercises" >> README.md
+ 1737  git init
+ 1738  git add README.md
+ 1739  git commit -m "first commit"
+ 1740  git branch -M main
+ 1741  git remote add origin https://github.com/Nelani123/git-basic-exercises.git
+ 1742  git push -u origin main
+ 1743  git branch
+ 1744  git checkout history
+ 1745  echo "# git-basic-exercises" >> README.md
+ 1746  git init
+ 1747  git add README.md
+ 1748  git commit -m "first commit"
+ 1749  git branch -M main
+ 1750  git remote add origin https://github.com/Nelani123/git-basic-exercises.git
+ 1751  git push -u origin main
+ 1752  cd ..
+ 1753  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1754  cd a-repo-to-clone/
+ 1755  git branch
+ 1756  git log
+ 1757  git branch -a
+ 1758  git checkout project/git-basic-exercises
+ 1759  git remote -v
+ 1760  git log
+ 1761  git checkout a-branch-with-a-few-commits 
+ 1762  git log
+ 1763  ls
+ 1764  git checkout main
+ 1765  cd ..
+ 1766  mkdir this-will-be-another-repo
+ 1767  cd this-will-be-another-repo/
+ 1768  touch README.md
+ 1769  cd ..
+ 1770  cd Gir-basic-exercises/
+ 1771  git log
+ 1772  touch ignore-me.db
+ 1773  git status
+ 1774  nano .gitignore
+ 1775  git status
+ 1776  mkdir large-directory-that-should-be-local-only
+ 1777  cd large-directory-that-should-be-local-only/
+ 1778  nano README.md
+ 1779  cd ..
+ 1780  git status
+ 1781  nano .gitignore
+ 1782  git status
+ 1783  git add . .gitignore 
+ 1784  git commit -m "added .gitignore"
+ 1785  git push
+ 1786  git branch
+ 1787  touch Khanya-Ande
+ 1788  ls
+ 1789  cd Bootcamp\ writing\ assignment/
+ 1790  touch Tell Us.md
+ 1791  nano Tell Us.md 
+ 1792  nano About.md
+ 1793  nano Career.md
+ 1794  ls
+ 1795  clear
+ 1796  nano FreeTime.md
+ 1797  nano Experience
+ 1798  nano Success.md
+ 1799  nano Experience
+ 1800  ls
+ 1801  nano 6.Theway
+ 1802  ls
+ 1803  nano 7.routine
+ 1804  nano 8.Future
+ 1805  nano 9.YourFuture.md
+ 1806  nano 10.commitments
+ 1807  git init
+ 1808  git add .
+ 1809  git commit -m "first commit"
+ 1810  git remote add origin https://github.com/Umuzi-org/Khanya-Nelani-429-bootcamp-writing-assignment-markdown.git
+ 1811  git push -u main
+ 1812  git status
+ 1813  git branch
+ 1814  chmod 600 ~/Downloads/qwikLABS-L2383-24114754.pem 
+ 1815  ssh -i ~/Downloads/qwikLABS-L2383-24114754.pem student-03-d29b44f68eb3@34.121.70.68
+ 1816  chmod 600 ~/Downloads/qwikLABS-L2386-24115059.pem 
+ 1817  ssh -i ~/Downloads/qwikLABS-L2386-24115059.pem 
+ 1818  ssh -i ~/Downloads/qwikLABS-L2386-24115059.pem student-02-17d8bc5b9a5b@34.70.13.166
+ 1819  ssh -i ~/Downloads/qwikLABS-L2386-24115059.pem 
+ 1820  ssh -i ~/Downloads/qwikLABS-L2386-24115059.pem student-02-17d8bc5b9a5b@34.70.13.166
+ 1821  chmod 600 ~/Downloads/qwikLABS-L2386-24115059.pem 
+ 1822  ssh -i ~/Downloads/qwikLABS-L2386-24115059.pem student-02-17d8bc5b9a5b@34.70.13.166
+ 1823  chmod 600 ~/Downloads/qwikLABS-L2383-24131092.pem 
+ 1824  ssh -i ~/Downloads/qwikLABS-L2383-24131092.pem student-04-aa59e180dfba@35.192.38.151
+ 1825  chmod 600 ~/Downloads/qwikLABS-L2379-24134976.pem 
+ 1826  ssh -i ~/Downloads/qwikLABS-L2379-24134976.pem 
+ 1827  ssh -i ~/Downloads/qwikLABS-L2379-24134976.pem student-01-f337fe4aa2a7@34.68.205.107
+ 1828  git clone https://github.com/Umuzi-org/Khanya-Nelani-429-bootcamp-writing-assignment-markdown
+ 1829  ls
+ 1830  cd Khanya-Nelani-429-bootcamp-writing-assignment-markdown/
+ 1831  ls
+ 1832  git status
+ 1833  git add .
+ 1834  git status
+ 1835  git commit -m "complited the project"
+ 1836  git push
+ 1837  clear
+ 1838  cd ..
+ 1839  chmod 600 ~/Downloads/qwikLABS-L2386-24159789.pem 
+ 1840  ssh -i ~/Downloads/qwikLABS-L2386-24159789.pem student-00-59617d50e0bf@34.72.74.48
+ 1841  chmod 600 ~/Downloads/qwikLABS-L2386-24160210.pem 
+ 1842  ssh -i ~/Downloads/qwikLABS-L2386-24160210.pem student-00-8176cfbfd7c0@34.70.37.221
+ 1843  chmod 600 ~/Downloads/qwikLABS-L2380-24222915.pem 
+ 1844  ssh -i ~/Downloads/qwikLABS-L2380-24222915.pem student-01-caba36fdef68@34.122.116.201
+ 1845  chmod 600 ~/Downloads/qwikLABS-L2380-24222915.pem 
+ 1846  ssh -i ~/Downloads/qwikLABS-L2380-24222915.pem student-01-caba36fdef68@34.122.116.201
+ 1847  chmod 600 ~/Downloads/qwikLABS-L2387-24229642\ \(1\).pem 
+ 1848  ssh -i ~/Downloads/qwikLABS-L2387-24229642\ \(1\).pem student-01-68faff326d19@35.224.10.110
+ 1849  ls
+ 1850  Git-basic-exercises/
+ 1851  cd Git-basic-exercises/
+ 1852  cd ..
+ 1853  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1854  cd a-repo-to-clone/
+ 1855  git branch
+ 1856  git log
+ 1857  git branch -a
+ 1858  git checkout -b project/git-basic-exercises
+ 1859  git remote -v
+ 1860  git log
+ 1861  cd ..
+ 1862  cd Git-basic-exercises/
+ 1863  git log
+ 1864  cd ..
+ 1865  cd this-will-be-another-repo/
+ 1866  git init
+ 1867  ls
+ 1868  git status
+ 1869  git add README.md 
+ 1870  git status
+ 1871  git commit -m "stage then commit"
+ 1872  cd ..
+ 1873  cd Git-basic-exercises/
+ 1874  git log
+ 1875  ls
+ 1876  git status
+ 1877  git add ignore-me.db 
+ 1878  git status
+ 1879  git pull
+ 1880  clear
+ 1881  mkdir git-basic-exercises
+ 1882  cd git-basic-exercises/
+ 1883  ls -a
+ 1884  ls
+ 1885  git init
+ 1886  ls -a
+ 1887  git status
+ 1888  touch README.md
+ 1889  ls -a
+ 1890  git status
+ 1891  git log
+ 1892  git add README.md 
+ 1893  git status
+ 1894  git commit -m "Initial commit"
+ 1895  git log
+ 1896  nano README.md
+ 1897  cat README.md 
+ 1898  git status
+ 1899  git add README.md 
+ 1900  git commit -m "second commit"
+ 1901  nano README.md
+ 1902  git status
+ 1903  git add README.md 
+ 1904  git commit -m "third commit"
+ 1905  git log
+ 1906  git checkout 659566992eaf422d740aa5eafda0dac7946a48d2
+ 1907  cat README.md 
+ 1908  git checkout main
+ 1909  git checkout master
+ 1910  cat README.md 
+ 1911  git branch
+ 1912  git checkout -b milkshake-flavours
+ 1913  git branch
+ 1914  git checkout milkshake-flavours 
+ 1915  nano milkshakes.md
+ 1916  git status
+ 1917  git add milkshakes.md 
+ 1918  git commit -m "added initial flavours"
+ 1919  git log
+ 1920  git checkout master
+ 1921  git checkout -b history
+ 1922  git branch
+ 1923  git log
+ 1924  git branch
+ 1925  history > history.txt
+ 1926  git status
+ 1927  git add history.txt 
+ 1928  git commit -m "added history"
+ 1929  git log
+ 1930  git checkout milkshake-flavours 
+ 1931  git log
+ 1932  nano README.md 
+ 1933  git status
+ 1934  git add README.md 
+ 1935  git commit -m "random readme changes"
+ 1936  git checkout history 
+ 1937  cat README.md 
+ 1938  rm README.md
+ 1939  echo "booya" > README.md
+ 1940  git status
+ 1941  git add README.md 
+ 1942  git commit -m "rewrote readme"
+ 1943  git checkout master 
+ 1944  ls
+ 1945  git log
+ 1946  git checkout milkshake-flavours
+ 1947  ls
+ 1948  git log
+ 1949  git checkout history
+ 1950  ls
+ 1951  git log
+ 1952  git checkout main
+ 1953  git checkout master
+ 1954  git merge milkshake-flavours
+ 1955  ls
+ 1956  git log
+ 1957  git branch
+ 1958  git merge history 
+ 1959  nano README.md 
+ 1960  git status
+ 1961  git add README.md 
+ 1962  git status
+ 1963  git commit
+ 1964  ls
+ 1965  git log
+ 1966  git checkout history
+ 1967  git log
+ 1968  git checkout milkshake-flavours
+ 1969  git log
+ 1970  echo "# git-basic-exercises" >> README.md
+ 1971  git init
+ 1972  git add README.md
+ 1973  git commit -m "first commit"
+ 1974  git branch -M main
+ 1975  git remote add origin https://github.com/Nelani123/git-basic-exercises.git
+ 1976  git push -u origin main
+ 1977  git merge history 
+ 1978  nano README.md 
+ 1979  git merge history 
+ 1980  git branch
+ 1981  git checkout main
+ 1982  clear
+ 1983  cd ..
+ 1984  git clone https://github.com/Umuzi-org/Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1985  ls
+ 1986  cd Khanya-Nelani-606-tilde-project-tutorial-how-repo-projects-work-/
+ 1987  git branch
+ 1988  git checkout -b ContinueRepoWorks
+ 1989  nano README.md 
+ 1990  nano Khanya.md 
+ 1991  git status
+ 1992  git commit
+ 1993  git commit -m "Added more text"
+ 1994  git add Khanya.md 
+ 1995  git commit -m "added more text"
+ 1996  git status
+ 1997  git add README.md 
+ 1998  git commit -m "Added README.md"
+ 1999  git push
+ 2000  mkdir git-basic-exercises
+ 2001  cd git-basic-exercises/
+ 2002  git init
+ 2003  touch README.md
+ 2004  git add .
+ 2005  git commit -m "initial commit"
+ 2006  nano README.md 
+ 2007  git add .
+ 2008  git commit -m "second commit"
+ 2009  nano README.md 
+ 2010  git add .
+ 2011  git commit -m "third commit"
+ 2012  git log
+ 2013  git checkout 5e37f161a6fa5dc6de158e1ea3f0afc9ef4af23c
+ 2014  git checkout master
+ 2015  git branch
+ 2016  git checkout -b milkshake-flavours
+ 2017  nano milkshakes.md
+ 2018  git add .
+ 2019  git commit -m "added initial flavours"
+ 2020  git checkout master
+ 2021  git checkout -b history
+ 2022  history > hstory.txt
